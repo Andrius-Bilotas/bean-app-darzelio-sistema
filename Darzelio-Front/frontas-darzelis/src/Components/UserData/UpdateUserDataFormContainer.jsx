@@ -121,7 +121,7 @@ export default class UpdateUserDataFormContainer extends Component {
           } else if (this.state.role === 'EDU') {
             this.props.history.push('/admin/edu/naudotojo-duomenys');
           } else if (this.state.role === 'ADMIN') {
-            this.props.history.push('/admin/edu/naudotojo-duomenys');
+            this.props.history.push('/admin/naudotojo-duomenys');
           }
         })
 
