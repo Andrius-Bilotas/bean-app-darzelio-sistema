@@ -1,0 +1,2 @@
+(this["webpackJsonpdarzelis-react"]=this["webpackJsonpdarzelis-react"]||[]).push([[15],{436:function(e,t,a){"use strict";a.r(t);var i=a(0),n=a.n(i),r=(a(19),a(83)),l=a.n(r);t.default=function(){return n.a.createElement("div",null,l.a?n.a.createElement("iframe",{src:l.a,title:"Naudojimosi instrukcija",style:{marginRight:0,marginLeft:170,height:800,width:1200},allowFullScreen:!0}):n.a.createElement("div",null,"..."))}}}]);
+//# sourceMappingURL=15.f9841348.chunk.js.map

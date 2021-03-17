@@ -1,0 +1,2 @@
+(this["webpackJsonpdarzelis-react"]=this["webpackJsonpdarzelis-react"]||[]).push([[6],{404:function(e,t,a){e.exports=a.p+"static/media/Edu.91694149.pdf"},422:function(e,t,a){"use strict";a.r(t);var i=a(0),r=a.n(i),n=(a(19),a(404)),s=a.n(n);t.default=function(){return r.a.createElement("div",{className:""},r.a.createElement("iframe",{src:s.a,title:"Naudojimosi instrukcija",style:{marginRight:0,marginLeft:170,height:800,width:1200},allowFullScreen:!0}))}}}]);
+//# sourceMappingURL=6.f172a4f2.chunk.js.map

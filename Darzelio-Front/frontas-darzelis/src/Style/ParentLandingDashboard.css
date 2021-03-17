@@ -1,0 +1,30 @@
+button.btn a {
+    background-color: #1baaa0; /* lightseagreen */
+    color: #ffffff;
+    padding: 0.6em 1.5em;
+    border-radius: 8px;
+    vertical-align: bottom;
+}
+
+button.btn a:hover {
+    background-color: #1baaa0; /* lightseagreen */
+    color: #ffffff;
+    font-weight: bolder;
+    padding: 0.6em 1.5em;
+    border-radius: 8px;
+    vertical-align: bottom;
+}
+
+button.btn a:active {
+    background-color: #1baaa0; /* lightseagreen */
+    color: #ffffff;
+    font-weight: bolder;
+    padding: 0.6em 1.5em;
+    border-radius: 8px;
+    vertical-align: bottom;
+}
+
+div.card {
+    height: 100%;
+    width: 18rem;
+}

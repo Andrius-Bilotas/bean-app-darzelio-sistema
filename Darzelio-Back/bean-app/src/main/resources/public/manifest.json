@@ -1,0 +1,8 @@
+{
+  "short_name": "Bean App",
+  "name": "vaiku darzeliu informacine sistema",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,53 @@
+main {
+    background-color: #fbf9f8; /* snow */
+}
+div {
+    text-align: left;
+}
+.fas.fa-school{
+    font-size: 5em;
+    align-content: center;
+    color: #1baaa0; /* lightseagreen */
+}
+
+/* mygtukai*/
+button.btn {
+    background-color: #1baaa0; /* lightseagreen */
+    color: #ffffff;
+    min-width: 150px;
+    padding: 0.6em 1.5em;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    vertical-align: bottom;
+}
+
+button.btn:hover {
+    background-color: #1baaa0; /* lightseagreen */
+    color: #ffffff;
+    font-weight: bolder;
+    padding: 0.6em 1.5em;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    vertical-align: bottom;
+}
+
+.btn.btn-link {
+    background-color: #ffffff;
+    color: #282f47; /* darkslategray */
+    text-decoration-line: underline;
+    min-width: 250px;
+    padding: 0.6em 1em;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    vertical-align: bottom;
+}
+
+.btn.btn-link:hover {
+    background-color: #ffffff;
+    color: #282f47; /* darkslategray */
+    font-weight: bolder;
+    padding: 0.6em 1em;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    vertical-align: bottom;
+}

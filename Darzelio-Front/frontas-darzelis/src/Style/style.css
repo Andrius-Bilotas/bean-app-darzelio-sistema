@@ -1,0 +1,210 @@
+.error,
+.invalid-feedback {
+  color: #db2269;
+  font-size: 0.625em;
+  display: relative;
+}
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  .col-s-1 {
+    width: 8.33%;
+  }
+  .col-s-2 {
+    width: 16.66%;
+  }
+  .col-s-3 {
+    width: 25%;
+  }
+  .col-s-4 {
+    width: 33.33%;
+  }
+  .col-s-5 {
+    width: 41.66%;
+  }
+  .col-s-6 {
+    width: 50%;
+  }
+  .col-s-7 {
+    width: 58.33%;
+  }
+  .col-s-8 {
+    width: 66.66%;
+  }
+  .col-s-9 {
+    width: 75%;
+  }
+  .col-s-10 {
+    width: 83.33%;
+  }
+  .col-s-11 {
+    width: 91.66%;
+  }
+  .col-s-12 {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .col-1 {
+    width: 8.33%;
+  }
+  .col-2 {
+    width: 16.66%;
+  }
+  .col-3 {
+    width: 25%;
+  }
+  .col-4 {
+    width: 33.33%;
+  }
+  .col-5 {
+    width: 41.66%;
+  }
+  .col-6 {
+    width: 50%;
+  }
+  .col-7 {
+    width: 58.33%;
+  }
+  .col-8 {
+    width: 66.66%;
+  }
+  .col-9 {
+    width: 75%;
+  }
+  .col-10 {
+    width: 83.33%;
+  }
+  .col-11 {
+    width: 91.66%;
+  }
+  .col-12 {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .left,
+  .main,
+  .right {
+    width: 100%;
+  }
+}
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
+}
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 4) {
+}
+
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+}
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 1) {
+}
+
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi) {
+}
+@media only screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 1.5) {
+}
+
+#deleteChildData,
+#deleteChildApplication {
+  background-color: #af4e4e;
+}
+.delete {
+  margin-left: 33.7em;
+  width: 166px;
+}
+.deleteApplication {
+  margin-left: 0.9em;
+  margin-top: -1.5em;
+}
+.update {
+  width: 165px;
+}
+.loading {
+  margin-left: 2em;
+}
+
+.upload {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.file {
+  position: relative;
+  opacity: 0;
+}
+.page-item {
+  cursor: pointer;
+}
+.sort {
+  word-wrap: break-word;
+  text-decoration: underline;
+  vertical-align: bottom;
+  cursor: pointer;
+  margin-right: 1em;
+  margin-bottom: 3em;
+  margin-top: 2em;
+}
+.sort:hover {
+  color: #1baaa0;
+}
+/* .dataTables_empty {
+  display: none;
+} */
+.conditions {
+  line-height: 2;
+  letter-spacing: 0.6px;
+  text-align: justify;
+  margin-right: 10em;
+  margin-left: 5em;
+}
+.dateTime {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.pdfGuide {
+  margin: 5em 28em;
+}
+.next {
+  /* margin-left: 10rem; */
+  margin-left: 28%;
+  margin-top: 1em;
+  width: 30em;
+}
+
+.btnData {
+  width: 30em;
+  margin-left: 7em;
+}
+.yes.btn {
+  background-color: #af4e4e;
+  border-radius: 5px;
+  border: 1px solid #282f47;
+}
+.yes.btn:hover {
+  /* background-color: #fbf9f8; */
+  background-color: #af4e4e;
+  color: #282f47;
+  border-radius: 5px;
+  border: 1px solid #282f47;
+}
+.child{
+  width: 200px;
+  /* margin-left:1em */
+}
+.formChild{
+margin-left: 0.35em;
+}
+/* .chart{
+  max-width: 2000px;
+  max-height: 1900px;
+} */
+.download {
+  /* margin-left: 10rem; */
+  margin-left: 32%;
+  margin-top: 1em;
+  width: 30em;
+  color:#282f47
+}

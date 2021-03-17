@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    background-color: #fbf9f8; /* snow */
+    color: #282f47;
+}
+
+.App {
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container, .container-fluid {
+    background-color: #fbf9f8; /* snow */
+    overflow: auto;
+    height: 100% !important;
+}
+
+
+p, a, td {
+    color: #8f989e !important; /* lightslategray */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #282f47 !important; /* darkslategray */
+}
